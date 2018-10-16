@@ -68,7 +68,7 @@ Installing the Blynk library is really simple just follow the [Blynk tutorial](h
 
 
 # Step 6: Uploading the Code
-Download the code here. Next open the code in the Arduino IDE paste the Blynk auth token where it is indicated. Type in your wifi name and password then select upload. After the code is uploaded you can test it out by putting the water sensor in some water. The Blynk app should show that the device is connected and the widget should display the water value if everything went correctly.
+Download the code [here](https://github.com/SachinPawaskarUNO/IoT-DogBowl/blob/master/Water_Bowl1/Water_Bowl1.ino). Next open the code in the Arduino IDE paste the Blynk auth token where it is indicated. Type in your wifi name and password then select upload. After the code is uploaded you can test it out by putting the water sensor in some water. The Blynk app should show that the device is connected and the widget should display the water value if everything went correctly.
 
 
 Note: I will continue to update the instructions.
